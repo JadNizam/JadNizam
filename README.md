@@ -20,7 +20,7 @@ Custom reinforcement learning traffic environment based on HighwayEnv, extended 
 
 <h2 align="left">📫 Connect with me</h1>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](YOUR_LINKEDIN_HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jad-nizam-967354299/)
 
 <h2 align="left">💻 Tech Stack</h1>
 
@@ -34,4 +34,4 @@ Custom reinforcement learning traffic environment based on HighwayEnv, extended 
 
 <h3 align="left">💾 Technologies & Frameworks</h3>
 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![OpenAI Gym](https://img.shields.io/badge/OpenAI%20Gym-412991?style=for-the-badge&logo=openai&logoColor=white) ![ML-Agents](https://img.shields.io/badge/Unity%20ML--Agents-black?style=for-the-badge&logo=unity&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=plotly&logoColor=black) ![SUMO](https://img.shields.io/badge/SUMO-traffic%20sim-blue?style=for-the-badge) ![HighwayEnv](https://img.shields.io/badge/HighwayEnv-RL-green?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![OpenAI Gym](https://img.shields.io/badge/OpenAI%20Gym-412991?style=for-the-badge&logo=openai&logoColor=white) ![ML-Agents](https://img.shields.io/badge/Unity%20ML--Agents-black?style=for-the-badge&logo=unity&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=plotly&logoColor=black) ![SUMO](https://img.shields.io/badge/SUMO-traffic%20sim-blue?style=for-the-badge) ![HighwayEnv](https://img.shields.io/badge/HighwayEnv-RL-green?style=for-the-badge)
