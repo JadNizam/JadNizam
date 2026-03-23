@@ -6,7 +6,7 @@ Electrical and Computer Engineering student at the University of Windsor with ex
 
 <h2 align="left">💻 Featured Projects</h1>
 
-[⚡🚗 HazardNet](https://github.com/JadNizam/HazardNet) →
+[⚡🚗 HazardNet](https://github.com/Yousefalwahami/HazardNet) →
 Smart real-time hazard detection system using V2V and V2X communication with reinforcement learning to help autonomous vehicles detect hazards, share alerts, and improve road safety.
 
 [🅿️🤖 3D-RL-Autonomous-Parking](https://github.com/JadNizam/3D-RL-Autonomous-Parking) →
